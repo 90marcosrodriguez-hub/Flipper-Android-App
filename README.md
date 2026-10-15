@@ -18,13 +18,13 @@ Or get the app from the [Releases Section](https://github.com/flipperdevices/Fli
 ## Module arch
 
 ```
-├── instances
-│   ├── app
-├── components
-│   ├── core
-│   ├── bridge
-│   ├── feature1
-│   ├── feature2
+├─##─ instances
+│  ## ├── app
+├──## components
+│  ## ├── core
+│   ##├── bridge
+│  ## ├── feature1
+│  ## ├── feature2
 ```
 
 - `app` - Main application module with UI
